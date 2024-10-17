@@ -21,4 +21,4 @@
 
 </div>
 
-<div class="text-center text-2xl mt-20 mb-40">Feel free to DM on Nostr at <br /> npub10fu0hlkx3s4n4dsgfu0cpqephga4afr4qtzpz9vsyqf7vj88v2yqdp8vp4 <br /> or contribute at the Github repository <a href="sample.com">here</a></div>
+<div class="text-center text-2xl mt-20 mb-40">Feel free to DM on Nostr at <br /> npub10fu0hlkx3s4n4dsgfu0cpqephga4afr4qtzpz9vsyqf7vj88v2yqdp8vp4 <br /> or contribute at the Github repository <a href="https://github.com/zatzby/nostr-photography/">here</a></div>
